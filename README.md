@@ -1,24 +1,24 @@
-# Prueba FrontEnd - Meli
+# Proof FrontEnd - Meli
 
 ![N|Solid](https://www.estamosenlinea.com/wp-content/uploads/2020/03/Nuevo-isotipo-Mercado-Libre.jpg)
 
-## Prerequisitos
-Necesitas tener instalado en tu computador:
+## Prerequisities
+You have need installed in your computer:
 
 ![node version](https://img.shields.io/badge/node-v12.x-green) ![npm version](https://img.shields.io/badge/npm-v6.13.x-orange) ![typescript](https://img.shields.io/badge/typescript-TypeCript-blue)
 
-## Ejecución - dev mode
+## Execution - dev mode
 
-Para la ejecución de la aplicación será necesario la utilización de dos consolas, en la primera, ejecuta:
+To execute the app you need to use two consoles, in first console you should execute:
+
+
 ```sh
-cd back
-npm i
-npm start
+sh backend.sh
 ```
 
-Segunda consola:
+And the second: 
 ```sh
-cd meli-front
-npm i
-npm start
+sh frontend.sh
 ```
+
+Subsequently go to your browser and access to [localhost:3000](http://localhost:3000) for see the app running! :)
