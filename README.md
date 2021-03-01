@@ -5,7 +5,7 @@
 ## Prerequisities
 You have need installed in your computer:
 
-![node version](https://img.shields.io/badge/node-v12.x-green) ![npm version](https://img.shields.io/badge/npm-v6.13.x-orange) ![typescript](https://img.shields.io/badge/typescript-TypeCript-blue)
+[![node version](https://img.shields.io/badge/node-v12.x-green)](https://nodejs.org/en/) [![npm version](https://img.shields.io/badge/npm-v6.13.x-orange)](https://www.npmjs.com/) [![typescript](https://img.shields.io/badge/typescript-TypeScript-blue)](https://www.typescriptlang.org/)
 
 ## Execution - dev mode
 
